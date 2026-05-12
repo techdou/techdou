@@ -1,16 +1,73 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**DouXiulu/douxiulu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👨‍💻 techdou
 
-Here are some ideas to get you started:
+**AI Agent Engineer | Building Intelligent Automation Systems**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## 🚀 About
+
+I'm an AI Agent Engineer focused on building intelligent automation systems and translating cutting-edge AI technology into practical products. Currently pursuing a Master's degree in Computer Technology, I specialize in creating agentic workflows and AI-driven automation pipelines.
+
+---
+
+## 🎯 Core Expertise
+
+| Area | Skills |
+|------|--------|
+| **Agentic Engineering** | MCP Protocol, Skill Development, Multi-modal Models |
+| **Development Paradigms** | Vibe Coding, Spec Coding, Rapid Prototyping |
+| **Automation** | AI-driven SOP, Workflow Automation, System Management |
+| **AI Applications** | RAG, Knowledge Bases, Voice Synthesis, Browser Automation |
+
+---
+
+## 🛠️ Tech Stack
+
+```python
+tech_stack = {
+    "Languages": ["Python", "TypeScript", "JavaScript"],
+    "Frameworks": ["OpenClaw", "LangChain", "FastAPI", "React"],
+    "Tools": ["Docker", "Git", "GitHub Actions", "MCP Servers"],
+    "AI": ["LLMs", "RAG", "Multi-modal", "Speech Recognition"]
+}
+```
+
+---
+
+## 🌟 Featured Projects
+
+### 🦞 LobsterBean AI
+An evolving personal AI assistant with multi-channel interaction capabilities (Feishu/WeChat), voice synthesis/recognition, image/video/music generation, and browser automation.
+
+---
+
+## 📊 Stats
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=techdou&theme=dark)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=techdou&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=techdou&layout=compact&theme=dark)
+
+</div>
+
+---
+
+## 📫 Connect
+
+- 🌐 [techdou.com](https://techdou.com)
+- 📧 Contact: techdou@techdou.com
+
+---
+
+<div align="center">
+
+*Building the future, one agent at a time.*
+
+</div>
