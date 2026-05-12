@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻Hello! I'm TechDou!
+# 👨‍💻Hello! I'm TechDou.
 
 **AI Agent Engineer | Building Intelligent Automation Systems**
 
