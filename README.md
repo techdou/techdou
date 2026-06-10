@@ -14,18 +14,6 @@ I'm an AI Agent Engineer focused on building intelligent automation systems and 
 
 ---
 
-
-
-## 📊 Stats
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=techdou&theme=dark)
-
-</div>
-
----
-
 ## 📫 Connect
 
 - 🌐 [techdou.com](https://techdou.com)
